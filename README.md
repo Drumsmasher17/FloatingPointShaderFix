@@ -1,3 +1,4 @@
 Important files are:
-TestPrecisionFix.shader
-CustomMatrixSetter.cs
+
+- TestPrecisionFix.shader
+- CustomMatrixSetter.cs
